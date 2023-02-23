@@ -3,7 +3,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDEBUIPjCEUTocacJD+miAljaHJlmE6O6fMEvKDrkqjsJ8ntGHDscPtQQX8nDgVMy+WYf0cCdP+dX1M/bOCUv57tUkcV1U7+zy2lzXep1tWGrAhOhMXv6S7JPsY1Tcq1tEYcvf6qHpUlAHvL1dx+Vn6sC6Lqowi41vUrNcJxJoqqBwPoQVtK7AyG0JK+62loEUJjBwpegyCMxe8UpuKwPnY5y1WBBLfcN4CNJRwKj+N2+RFNy2lHFfVqWESwsKelPePdbk54bUC62zPtubpOEHdmpoTNZfEm0KvwFIEIPWnsIxri2dDP2d3pYrP5yT/KMsaCTkzurj3BsybQ1P/ETs/6CbbHG1P+7tBlsIpmueqrjf9nWpGec+iGwhhRi/iMQj3Yj0NigGeSa13c53ZmBDdNFyk4l0DGzuCbvrceXyvQH55jJXVbZCq5tssO+s0mi0FIt3mjWScACfsCiKO0paS/Y/66F2IiQrQM9kxaYAhGna9Ke+8JIr4S76rauU66Kk= yuriy@yuriy-HP-Laptop-15s-eq2xxxssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDEBUIPjCEUTocacJD+miAljaHJlmE6O6fMEvKDrkqjsJ8ntGHDscPtQQX8nDgVMy+WYf0cCdP+dX1M/bOCUv57tUkcV1U7+zy2lzXep1tWGrAhOhMXv6S7JPsY1Tcq1tEYcvf6qHpUlAHvL1dx+Vn6sC6Lqowi41vUrNcJxJoqqBwPoQVtK7AyG0JK+62loEUJjBwpegyCMxe8UpuKwPnY5y1WBBLfcN4CNJRwKj+N2+RFNy2lHFfVqWESwsKelPePdbk54bUC62zPtubpOEHdmpoTNZfEm0KvwFIEIPWnsIxri2dDP2d3pYrP5yT/KMsaCTkzurj3BsybQ1P/ETs/6CbbHG1P+7tBlsIpmueqrjf9nWpGec+iGwhhRi/iMQj3Yj0NigGeSa13c53ZmBDdNFyk4l0DGzuCbvrceXyvQH55jJXVbZCq5tssO+s0mi0FIt3mjWScACfsCiKO0paS/Y/66F2IiQrQM9kxaYAhGna9Ke+8JIr4S76rauU66Kk= yuriy@yuriy-HP-Laptop-15s-eq2xxx
 # C extensions
 *.so
 
@@ -159,3 +159,4 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
+.vscode/
